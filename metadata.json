@@ -1,0 +1,6 @@
+{
+  "name": "Script & Objection Agent Hub",
+  "description": "Portail épuré pour agents avec scripts de vente et traitements d'objections. Recherche plein texte et sémantique vectorielle, et importation par OCR de documents Word/PDF par Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
